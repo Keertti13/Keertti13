@@ -1,4 +1,13 @@
-## Hi there 👋
+# Introduction
+
+Hi! I'm Keertti, a Software Engineering student.
+
+I'm excited to learn more about programming, software development, and maintaining software systems.
+
+- **About me:** I enjoy learning new things and improving my technical skills.
+- **Course expectations:** I hope to gain practical experience with Git and GitHub and learn how to collaborate effectively with others.
+
+![My Image](k%20pic%206.jpeg)
 
 <!--
 **Keertti13/Keertti13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
